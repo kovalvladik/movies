@@ -2,7 +2,7 @@
   "name": "movies",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.io/kovalvladik/movies",
+  "homepage": "https://kovalvladik.github.io/movies",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
